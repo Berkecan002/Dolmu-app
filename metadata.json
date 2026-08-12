@@ -1,0 +1,6 @@
+{
+  "name": "Kırıkkale Dolmuş Takip",
+  "description": "Kırıkkale dolmuş hatları için gerçek zamanlı şoför ve yolcu takip platformu. Yahşihan Kampüs, Bahçelievler, Etiler, Yuva ve Keskin dolmuşlarının anlık GPS takibi ve sefer saatleri.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
